@@ -21,8 +21,9 @@ Where the dataset contains different features of the mushrooms like gillcolor, s
 <li> Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV and randomizedSearchCV.</li>
 <li> Pickle File          :  Selected model as per best accuracy and created pickle file using joblib .</li>
 
+</pre>
 ## Technologies Used
-<pre> 
+
 1. Python 
 2. Sklearn
 3. Flask
@@ -35,8 +36,3 @@ Where the dataset contains different features of the mushrooms like gillcolor, s
 ## Deployment
 
 link : http://classification-project-api.azurewebsites.net/
-
-</pre>
-
-
-
